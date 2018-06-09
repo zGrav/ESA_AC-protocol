@@ -1,0 +1,47 @@
+﻿Build started 18-08-2012 17:32:48.
+     1>Project "F:\Coding\C#\LPO\ProcessHelper\ProcessHelper.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Itanium\Release\ProcessHelper.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Itanium\Release\ProcessHelper.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_ia64\CL.exe /c /Zi /nologo /W1 /WX- /O2 /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Itanium\Release\\" /Fd"Itanium\Release\vc100.pdb" /Gd /TP /errorReport:prompt AssemblyInfo.cpp ProcessHelper.cpp Stdafx.cpp
+         AssemblyInfo.cpp
+     1>AssemblyInfo.cpp(3): error C2871: 'System' : a namespace with this name does not exist
+     1>AssemblyInfo.cpp(4): error C2653: 'System' : is not a class or namespace name
+     1>AssemblyInfo.cpp(4): error C2871: 'Reflection' : a namespace with this name does not exist
+     1>AssemblyInfo.cpp(5): error C2653: 'System' : is not a class or namespace name
+     1>AssemblyInfo.cpp(5): error C2871: 'CompilerServices' : a namespace with this name does not exist
+     1>AssemblyInfo.cpp(6): error C2653: 'System' : is not a class or namespace name
+     1>AssemblyInfo.cpp(6): error C2871: 'InteropServices' : a namespace with this name does not exist
+     1>AssemblyInfo.cpp(7): error C2653: 'System' : is not a class or namespace name
+     1>AssemblyInfo.cpp(7): error C2871: 'Permissions' : a namespace with this name does not exist
+     1>AssemblyInfo.cpp(14): error C2337: 'AssemblyTitleAttribute' : attribute not found
+     1>AssemblyInfo.cpp(15): error C2337: 'AssemblyDescriptionAttribute' : attribute not found
+     1>AssemblyInfo.cpp(16): error C2337: 'AssemblyConfigurationAttribute' : attribute not found
+     1>AssemblyInfo.cpp(17): error C2337: 'AssemblyCompanyAttribute' : attribute not found
+     1>AssemblyInfo.cpp(18): error C2337: 'AssemblyProductAttribute' : attribute not found
+     1>AssemblyInfo.cpp(19): error C2337: 'AssemblyCopyrightAttribute' : attribute not found
+     1>AssemblyInfo.cpp(20): error C2337: 'AssemblyTrademarkAttribute' : attribute not found
+     1>AssemblyInfo.cpp(21): error C2337: 'AssemblyCultureAttribute' : attribute not found
+     1>AssemblyInfo.cpp(34): error C2337: 'AssemblyVersionAttribute' : attribute not found
+     1>AssemblyInfo.cpp(36): error C2337: 'ComVisible' : attribute not found
+     1>AssemblyInfo.cpp(38): error C2337: 'CLSCompliantAttribute' : attribute not found
+     1>AssemblyInfo.cpp(40): error C2337: 'SecurityPermission' : attribute not found
+     1>AssemblyInfo.cpp(40): error C2653: 'SecurityAction' : is not a class or namespace name
+     1>AssemblyInfo.cpp(40): error C2065: 'RequestMinimum' : undeclared identifier
+                 missing quotes ("") around 'RequestMinimum'?
+         ProcessHelper.cpp
+     1>ProcessHelper.cpp(11): error C2871: 'System' : a namespace with this name does not exist
+     1>ProcessHelper.cpp(12): error C2653: 'System' : is not a class or namespace name
+     1>ProcessHelper.cpp(12): error C2871: 'Generic' : a namespace with this name does not exist
+     1>ProcessHelper.cpp(15): error C2059: syntax error : 'public'
+     1>ProcessHelper.cpp(16): error C2143: syntax error : missing ';' before '{'
+     1>ProcessHelper.cpp(16): error C2447: '{' : missing function header (old-style formal list?)
+         Stdafx.cpp
+         Generating Code...
+     1>Done Building Project "F:\Coding\C#\LPO\ProcessHelper\ProcessHelper.vcxproj" (rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.48

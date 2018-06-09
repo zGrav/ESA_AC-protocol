@@ -1,0 +1,82 @@
+C:\Users\Martin\documents\visual studio 2010\Projects\LPO\LPO\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Martin\documents\visual studio 2010\Projects\LPO\LPO\obj\x86\Release\LPO.LoginForm.resources
+C:\Users\Martin\documents\visual studio 2010\Projects\LPO\LPO\obj\x86\Release\LPO.RegisterForm.resources
+C:\Users\Martin\documents\visual studio 2010\Projects\LPO\LPO\obj\x86\Release\LPO.MainForm.resources
+C:\Users\Martin\documents\visual studio 2010\Projects\LPO\LPO\obj\x86\Release\LPO.ReportForm.resources
+C:\Users\Martin\documents\visual studio 2010\Projects\LPO\LPO\obj\x86\Release\LPO.ConfigurationForm.resources
+C:\Users\Martin\documents\visual studio 2010\Projects\LPO\LPO\obj\x86\Release\LPO.AboutForm.resources
+C:\Users\Martin\documents\visual studio 2010\Projects\LPO\LPO\obj\x86\Release\LPO.LogForm.resources
+C:\Users\Martin\documents\visual studio 2010\Projects\LPO\LPO\obj\x86\Release\LPO.Properties.Resources.resources
+C:\Users\Martin\documents\visual studio 2010\Projects\LPO\LPO\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Martin\documents\visual studio 2010\Projects\LPO\LPO\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Martin\documents\visual studio 2010\Projects\LPO\LPO\bin\Release\LPO.exe
+C:\Users\Martin\documents\visual studio 2010\Projects\LPO\LPO\bin\Release\LPO.pdb
+C:\Users\Martin\documents\visual studio 2010\Projects\LPO\LPO\bin\Release\ProcessHelper.dll
+C:\Users\Martin\documents\visual studio 2010\Projects\LPO\LPO\bin\Release\ProcessHelper.pdb
+C:\Users\Martin\documents\visual studio 2010\Projects\LPO\LPO\obj\x86\Release\LPO.exe
+C:\Users\Martin\documents\visual studio 2010\Projects\LPO\LPO\obj\x86\Release\LPO.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\LPO\LPO\obj\x86\Release\LPO.LoadingForm.resources
+C:\Users\zGrav\Desktop\LPOCSS\C#\LPO\LPO\bin\Release\LPO.exe
+C:\Users\zGrav\Desktop\LPOCSS\C#\LPO\LPO\bin\Release\LPO.pdb
+C:\Users\zGrav\Desktop\LPOCSS\C#\LPO\LPO\bin\Release\ProcessHelper.dll
+C:\Users\zGrav\Desktop\LPOCSS\C#\LPO\LPO\bin\Release\ProcessHelper.pdb
+C:\Users\zGrav\Desktop\LPOCSS\C#\LPO\LPO\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\zGrav\Desktop\LPOCSS\C#\LPO\LPO\obj\x86\Release\LPO.LoadingForm.resources
+C:\Users\zGrav\Desktop\LPOCSS\C#\LPO\LPO\obj\x86\Release\LPO.LoginForm.resources
+C:\Users\zGrav\Desktop\LPOCSS\C#\LPO\LPO\obj\x86\Release\LPO.RegisterForm.resources
+C:\Users\zGrav\Desktop\LPOCSS\C#\LPO\LPO\obj\x86\Release\LPO.MainForm.resources
+C:\Users\zGrav\Desktop\LPOCSS\C#\LPO\LPO\obj\x86\Release\LPO.ReportForm.resources
+C:\Users\zGrav\Desktop\LPOCSS\C#\LPO\LPO\obj\x86\Release\LPO.ConfigurationForm.resources
+C:\Users\zGrav\Desktop\LPOCSS\C#\LPO\LPO\obj\x86\Release\LPO.AboutForm.resources
+C:\Users\zGrav\Desktop\LPOCSS\C#\LPO\LPO\obj\x86\Release\LPO.Properties.Resources.resources
+C:\Users\zGrav\Desktop\LPOCSS\C#\LPO\LPO\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\zGrav\Desktop\LPOCSS\C#\LPO\LPO\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\zGrav\Desktop\LPOCSS\C#\LPO\LPO\obj\x86\Release\LPO.exe
+C:\Users\zGrav\Desktop\LPOCSS\C#\LPO\LPO\obj\x86\Release\LPO.pdb
+F:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.exe
+F:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.pdb
+F:\Coding\C#\LPO\LPO\bin\Release\LPO.exe
+F:\Coding\C#\LPO\LPO\bin\Release\LPO.pdb
+F:\Coding\C#\LPO\LPO\bin\Release\ProcessHelper.dll
+F:\Coding\C#\LPO\LPO\bin\Release\ProcessHelper.pdb
+F:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.LoadingForm.resources
+F:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.LoginForm.resources
+F:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.RegisterForm.resources
+F:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.MainForm.resources
+F:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.ReportForm.resources
+F:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.ConfigurationForm.resources
+F:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.AboutForm.resources
+F:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.Properties.Resources.resources
+F:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.csprojResolveAssemblyReference.cache
+F:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.csproj.GenerateResource.Cache
+D:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.exe
+D:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.pdb
+D:\Coding\C#\LPO\LPO\bin\Release\LPO.exe
+D:\Coding\C#\LPO\LPO\bin\Release\LPO.pdb
+D:\Coding\C#\LPO\LPO\bin\Release\ProcessHelper.dll
+D:\Coding\C#\LPO\LPO\bin\Release\ProcessHelper.pdb
+D:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.LoadingForm.resources
+D:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.LoginForm.resources
+D:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.RegisterForm.resources
+D:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.MainForm.resources
+D:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.ReportForm.resources
+D:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.ConfigurationForm.resources
+D:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.AboutForm.resources
+D:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.Properties.Resources.resources
+D:\Coding\C#\LPO\LPO\obj\x86\Release\LPO.csproj.GenerateResource.Cache
+D:\Coding\C#\LPO - Copy\LPO\bin\Release\ESA_AC.exe
+D:\Coding\C#\LPO - Copy\LPO\bin\Release\ESA_AC.pdb
+D:\Coding\C#\LPO - Copy\LPO\bin\Release\ProcessHelper.dll
+D:\Coding\C#\LPO - Copy\LPO\bin\Release\ProcessHelper.pdb
+D:\Coding\C#\LPO - Copy\LPO\obj\x86\Release\LPO.csprojResolveAssemblyReference.cache
+D:\Coding\C#\LPO - Copy\LPO\obj\x86\Release\LPO.LoadingForm.resources
+D:\Coding\C#\LPO - Copy\LPO\obj\x86\Release\LPO.LoginForm.resources
+D:\Coding\C#\LPO - Copy\LPO\obj\x86\Release\LPO.RegisterForm.resources
+D:\Coding\C#\LPO - Copy\LPO\obj\x86\Release\LPO.MainForm.resources
+D:\Coding\C#\LPO - Copy\LPO\obj\x86\Release\LPO.ReportForm.resources
+D:\Coding\C#\LPO - Copy\LPO\obj\x86\Release\LPO.ConfigurationForm.resources
+D:\Coding\C#\LPO - Copy\LPO\obj\x86\Release\LPO.AboutForm.resources
+D:\Coding\C#\LPO - Copy\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+D:\Coding\C#\LPO - Copy\LPO\obj\x86\Release\LPO.csproj.GenerateResource.Cache
+D:\Coding\C#\LPO - Copy\LPO\obj\x86\Release\ESA_AC.exe
+D:\Coding\C#\LPO - Copy\LPO\obj\x86\Release\ESA_AC.pdb

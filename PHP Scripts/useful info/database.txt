@@ -1,0 +1,3 @@
+login
+username e password type text latin1_german1_ci not null
+password type fulltext cardinality 103 field passowrd

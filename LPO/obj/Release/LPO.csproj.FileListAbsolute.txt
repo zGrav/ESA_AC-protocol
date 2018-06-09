@@ -1,0 +1,15 @@
+F:\Coding\C#\LPO\LPO\obj\Release\ResolveAssemblyReference.cache
+F:\Coding\C#\LPO\LPO\obj\Release\LPO.LoadingForm.resources
+F:\Coding\C#\LPO\LPO\obj\Release\LPO.LoginForm.resources
+F:\Coding\C#\LPO\LPO\obj\Release\LPO.RegisterForm.resources
+F:\Coding\C#\LPO\LPO\obj\Release\LPO.MainForm.resources
+F:\Coding\C#\LPO\LPO\obj\Release\LPO.ReportForm.resources
+F:\Coding\C#\LPO\LPO\obj\Release\LPO.ConfigurationForm.resources
+F:\Coding\C#\LPO\LPO\obj\Release\LPO.AboutForm.resources
+F:\Coding\C#\LPO\LPO\obj\Release\LPO.Properties.Resources.resources
+F:\Coding\C#\LPO\LPO\obj\Release\GenerateResource.read.1.tlog
+F:\Coding\C#\LPO\LPO\obj\Release\GenerateResource.write.1.tlog
+F:\Coding\C#\LPO\LPO\bin\Release\LPO.exe
+F:\Coding\C#\LPO\LPO\bin\Release\ProcessHelper.dll
+F:\Coding\C#\LPO\LPO\bin\Release\ProcessHelper.pdb
+F:\Coding\C#\LPO\LPO\obj\Release\LPO.exe

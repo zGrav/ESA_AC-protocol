@@ -1,0 +1,22 @@
+D:\Coding\C#\ESA_AC -fileserver version\LPO\bin\Release\ESA_AC.exe
+D:\Coding\C#\ESA_AC -fileserver version\LPO\bin\Release\ProcessHelper.dll
+D:\Coding\C#\ESA_AC -fileserver version\LPO\bin\Release\ProcessHelper.pdb
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\Release\ESA_AC.GameList.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\Release\LPO.LoadingForm.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\Release\LPO.LoginForm.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\Release\LPO.RegisterForm.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\Release\LPO.MainForm.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\Release\LPO.ReportForm.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\Release\ESA_AC.Properties.Resources.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\Release\ESA_AC.csproj.GenerateResource.Cache
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\Release\ESA_AC.exe
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\Release\ESA_AC.csprojResolveAssemblyReference.cache
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\obj\Release\ESA_AC.csprojResolveAssemblyReference.cache
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\obj\Release\ESA_AC.GameList.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\obj\Release\LPO.LoadingForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\obj\Release\LPO.LoginForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\obj\Release\LPO.RegisterForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\obj\Release\LPO.MainForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\obj\Release\LPO.ReportForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\obj\Release\ESA_AC.Properties.Resources.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\obj\Release\ESA_AC.csproj.GenerateResource.Cache

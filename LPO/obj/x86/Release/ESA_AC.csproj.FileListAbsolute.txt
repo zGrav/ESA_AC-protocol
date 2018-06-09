@@ -1,0 +1,283 @@
+D:\Coding\C#\ESA_AC\LPO\bin\Release\ESA_AC.exe
+D:\Coding\C#\ESA_AC\LPO\bin\Release\ESA_AC.pdb
+D:\Coding\C#\ESA_AC\LPO\bin\Release\ProcessHelper.dll
+D:\Coding\C#\ESA_AC\LPO\bin\Release\ProcessHelper.pdb
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\ESA_AC.GameList.resources
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\LPO.LoadingForm.resources
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\LPO.LoginForm.resources
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\LPO.RegisterForm.resources
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\LPO.MainForm.resources
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\LPO.ReportForm.resources
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\ESA_AC.exe
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\ESA_AC.pdb
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\ESA_AC.csprojResolveAssemblyReference.cache
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\ESA_AC.exe
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\ESA_AC.pdb
+D:\Coding\C#\ESA_AC -fileserver test\LPO\bin\Release\ESA_AC.exe
+D:\Coding\C#\ESA_AC -fileserver test\LPO\bin\Release\ESA_AC.pdb
+D:\Coding\C#\ESA_AC -fileserver test\LPO\bin\Release\ProcessHelper.dll
+D:\Coding\C#\ESA_AC -fileserver test\LPO\bin\Release\ProcessHelper.pdb
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\ESA_AC.GameList.resources
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\LPO.LoadingForm.resources
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\LPO.LoginForm.resources
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\LPO.RegisterForm.resources
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\LPO.MainForm.resources
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\LPO.ReportForm.resources
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\ESA_AC.csprojResolveAssemblyReference.cache
+D:\Coding\C#\ESA_AC -fileserver version\LPO\bin\Release\ESA_AC.exe
+D:\Coding\C#\ESA_AC -fileserver version\LPO\bin\Release\ESA_AC.pdb
+D:\Coding\C#\ESA_AC -fileserver version\LPO\bin\Release\ProcessHelper.dll
+D:\Coding\C#\ESA_AC -fileserver version\LPO\bin\Release\ProcessHelper.pdb
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.GameList.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.LoadingForm.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.LoginForm.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.RegisterForm.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.MainForm.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.ReportForm.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.exe
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.pdb
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.csprojResolveAssemblyReference.cache
+C:\Users\david.silva\Downloads\pt-tgpsi293-master\pt-tgpsi293-master\Misc\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\pt-tgpsi293-master\pt-tgpsi293-master\Misc\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\pt-tgpsi293-master\pt-tgpsi293-master\Misc\ESA_AC -fileserver version\LPO\bin\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\pt-tgpsi293-master\pt-tgpsi293-master\Misc\ESA_AC -fileserver version\LPO\bin\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\pt-tgpsi293-master\pt-tgpsi293-master\Misc\ESA_AC -fileserver version\LPO\bin\Release\ProcessHelper.dll
+C:\Users\david.silva\Downloads\pt-tgpsi293-master\pt-tgpsi293-master\Misc\ESA_AC -fileserver version\LPO\bin\Release\ProcessHelper.pdb
+C:\Users\david.silva\Downloads\pt-tgpsi293-master\pt-tgpsi293-master\Misc\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.csprojResolveAssemblyReference.cache
+C:\Users\david.silva\Downloads\pt-tgpsi293-master\pt-tgpsi293-master\Misc\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.GameList.resources
+C:\Users\david.silva\Downloads\pt-tgpsi293-master\pt-tgpsi293-master\Misc\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.LoadingForm.resources
+C:\Users\david.silva\Downloads\pt-tgpsi293-master\pt-tgpsi293-master\Misc\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.LoginForm.resources
+C:\Users\david.silva\Downloads\pt-tgpsi293-master\pt-tgpsi293-master\Misc\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.RegisterForm.resources
+C:\Users\david.silva\Downloads\pt-tgpsi293-master\pt-tgpsi293-master\Misc\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.MainForm.resources
+C:\Users\david.silva\Downloads\pt-tgpsi293-master\pt-tgpsi293-master\Misc\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.ReportForm.resources
+C:\Users\david.silva\Downloads\pt-tgpsi293-master\pt-tgpsi293-master\Misc\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+C:\Users\david.silva\Downloads\pt-tgpsi293-master\pt-tgpsi293-master\Misc\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+C:\Users\david.silva\Downloads\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\ESA10-05\ESA_AC -fileserver version\LPO\bin\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA10-05\ESA_AC -fileserver version\LPO\bin\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\ESA10-05\ESA_AC -fileserver version\LPO\bin\Release\ProcessHelper.dll
+C:\Users\david.silva\Downloads\ESA10-05\ESA_AC -fileserver version\LPO\bin\Release\ProcessHelper.pdb
+C:\Users\david.silva\Downloads\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.csprojResolveAssemblyReference.cache
+C:\Users\david.silva\Downloads\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.GameList.resources
+C:\Users\david.silva\Downloads\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.LoadingForm.resources
+C:\Users\david.silva\Downloads\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.LoginForm.resources
+C:\Users\david.silva\Downloads\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.RegisterForm.resources
+C:\Users\david.silva\Downloads\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.MainForm.resources
+C:\Users\david.silva\Downloads\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.ReportForm.resources
+C:\Users\david.silva\Downloads\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+C:\Users\david.silva\Downloads\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+C:\Users\david.silva\Downloads\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA10-05_v2\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\ESA10-05_v2\ESA10-05\ESA_AC -fileserver version\LPO\bin\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA10-05_v2\ESA10-05\ESA_AC -fileserver version\LPO\bin\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\ESA10-05_v2\ESA10-05\ESA_AC -fileserver version\LPO\bin\Release\ProcessHelper.dll
+C:\Users\david.silva\Downloads\ESA10-05_v2\ESA10-05\ESA_AC -fileserver version\LPO\bin\Release\ProcessHelper.pdb
+C:\Users\david.silva\Downloads\ESA10-05_v2\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.GameList.resources
+C:\Users\david.silva\Downloads\ESA10-05_v2\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.LoadingForm.resources
+C:\Users\david.silva\Downloads\ESA10-05_v2\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.LoginForm.resources
+C:\Users\david.silva\Downloads\ESA10-05_v2\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.RegisterForm.resources
+C:\Users\david.silva\Downloads\ESA10-05_v2\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.MainForm.resources
+C:\Users\david.silva\Downloads\ESA10-05_v2\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.ReportForm.resources
+C:\Users\david.silva\Downloads\ESA10-05_v2\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+C:\Users\david.silva\Downloads\ESA10-05_v2\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+C:\Users\david.silva\Downloads\ESA10-05_v2\ESA10-05\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA_AC - FTP version\LPO\bin\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA_AC - FTP version\LPO\bin\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\ESA_AC - FTP version\LPO\bin\Release\ProcessHelper.dll
+C:\Users\david.silva\Downloads\ESA_AC - FTP version\LPO\bin\Release\ProcessHelper.pdb
+C:\Users\david.silva\Downloads\ESA_AC - FTP version\LPO\obj\x86\Release\ESA_AC.csprojResolveAssemblyReference.cache
+C:\Users\david.silva\Downloads\ESA_AC - FTP version\LPO\obj\x86\Release\ESA_AC.GameList.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version\LPO\obj\x86\Release\LPO.LoadingForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version\LPO\obj\x86\Release\LPO.LoginForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version\LPO\obj\x86\Release\LPO.RegisterForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version\LPO\obj\x86\Release\LPO.MainForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version\LPO\obj\x86\Release\LPO.ReportForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+C:\Users\david.silva\Downloads\ESA_AC - FTP version\LPO\obj\x86\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA_AC - FTP version\LPO\obj\x86\Release\ESA_AC.pdb
+C:\Users\Jose Carlos\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.exe
+C:\Users\Jose Carlos\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.pdb
+C:\Users\Jose Carlos\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\bin\Release\ESA_AC.exe
+C:\Users\Jose Carlos\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\bin\Release\ESA_AC.pdb
+C:\Users\Jose Carlos\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\bin\Release\ProcessHelper.dll
+C:\Users\Jose Carlos\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\bin\Release\ProcessHelper.pdb
+C:\Users\Jose Carlos\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jose Carlos\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.GameList.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.LoadingForm.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.LoginForm.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.RegisterForm.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.MainForm.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.ReportForm.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Jose Carlos\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\bin\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\bin\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\bin\Release\ProcessHelper.dll
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\bin\Release\ProcessHelper.pdb
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.GameList.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.LoadingForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.LoginForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.RegisterForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.MainForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.ReportForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\bin\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\bin\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\bin\Release\ProcessHelper.dll
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\bin\Release\ProcessHelper.pdb
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.csprojResolveAssemblyReference.cache
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.GameList.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.LoadingForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.LoginForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.RegisterForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.MainForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.ReportForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\bin\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\bin\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\bin\Release\ProcessHelper.dll
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\bin\Release\ProcessHelper.pdb
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.GameList.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.LoadingForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.LoginForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.RegisterForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.MainForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\obj\x86\Release\LPO.ReportForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA_AC - FTP version_\LPO\obj\x86\Release\ESA_AC.pdb
+C:\Users\Jose Carlos\Downloads\ESA_AC - HTTP&PHP version\LPO\obj\x86\Release\ESA_AC.exe
+C:\Users\Jose Carlos\Downloads\ESA_AC - HTTP&PHP version\LPO\obj\x86\Release\ESA_AC.pdb
+C:\Users\Jose Carlos\Downloads\ESA_AC - HTTP&PHP version\LPO\bin\Release\ESA_AC.exe
+C:\Users\Jose Carlos\Downloads\ESA_AC - HTTP&PHP version\LPO\bin\Release\ESA_AC.pdb
+C:\Users\Jose Carlos\Downloads\ESA_AC - HTTP&PHP version\LPO\bin\Release\ProcessHelper.dll
+C:\Users\Jose Carlos\Downloads\ESA_AC - HTTP&PHP version\LPO\bin\Release\ProcessHelper.pdb
+C:\Users\Jose Carlos\Downloads\ESA_AC - HTTP&PHP version\LPO\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jose Carlos\Downloads\ESA_AC - HTTP&PHP version\LPO\obj\x86\Release\ESA_AC.GameList.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - HTTP&PHP version\LPO\obj\x86\Release\LPO.LoadingForm.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - HTTP&PHP version\LPO\obj\x86\Release\LPO.LoginForm.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - HTTP&PHP version\LPO\obj\x86\Release\LPO.RegisterForm.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - HTTP&PHP version\LPO\obj\x86\Release\LPO.MainForm.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - HTTP&PHP version\LPO\obj\x86\Release\LPO.ReportForm.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - HTTP&PHP version\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - HTTP&PHP version\LPO\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Jose Carlos\Downloads\ESA_AC - HTTP&PHP version\LPO\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Jose Carlos\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\bin\Release\ESA_AC.exe
+C:\Users\Jose Carlos\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\bin\Release\ESA_AC.pdb
+C:\Users\Jose Carlos\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\bin\Release\ProcessHelper.dll
+C:\Users\Jose Carlos\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\bin\Release\ProcessHelper.pdb
+C:\Users\Jose Carlos\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jose Carlos\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.GameList.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\LPO.LoadingForm.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\LPO.LoginForm.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\LPO.RegisterForm.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\LPO.MainForm.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\LPO.ReportForm.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+C:\Users\Jose Carlos\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Jose Carlos\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Jose Carlos\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.exe
+C:\Users\Jose Carlos\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\ESA_AC - post version\LPO\bin\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA_AC - post version\LPO\bin\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\ESA_AC - post version\LPO\bin\Release\ProcessHelper.dll
+C:\Users\david.silva\Downloads\ESA_AC - post version\LPO\bin\Release\ProcessHelper.pdb
+C:\Users\david.silva\Downloads\ESA_AC - post version\LPO\obj\x86\Release\LPO.LoadingForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - post version\LPO\obj\x86\Release\LPO.LoginForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - post version\LPO\obj\x86\Release\LPO.MainForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+C:\Users\david.silva\Downloads\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+D:\Coding\C#\ESA_AC - post version\LPO\bin\Release\ESA_AC.exe
+D:\Coding\C#\ESA_AC - post version\LPO\bin\Release\ESA_AC.pdb
+D:\Coding\C#\ESA_AC - post version\LPO\bin\Release\ProcessHelper.dll
+D:\Coding\C#\ESA_AC - post version\LPO\bin\Release\ProcessHelper.pdb
+D:\Coding\C#\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.ErrorForm.resources
+D:\Coding\C#\ESA_AC - post version\LPO\obj\x86\Release\LPO.LoadingForm.resources
+D:\Coding\C#\ESA_AC - post version\LPO\obj\x86\Release\LPO.LoginForm.resources
+D:\Coding\C#\ESA_AC - post version\LPO\obj\x86\Release\LPO.MainForm.resources
+D:\Coding\C#\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+D:\Coding\C#\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+D:\Coding\C#\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.exe
+D:\Coding\C#\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.pdb
+D:\Coding\C#\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.csprojResolveAssemblyReference.cache
+C:\Users\david.silva\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\bin\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\bin\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\bin\Release\ProcessHelper.dll
+C:\Users\david.silva\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\bin\Release\ProcessHelper.pdb
+C:\Users\david.silva\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.csprojResolveAssemblyReference.cache
+C:\Users\david.silva\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.ErrorForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\obj\x86\Release\LPO.LoadingForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\obj\x86\Release\LPO.LoginForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\obj\x86\Release\LPO.MainForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+C:\Users\david.silva\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+C:\Users\zGrav\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\bin\Release\ESA_AC.exe
+C:\Users\zGrav\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\bin\Release\ESA_AC.pdb
+C:\Users\zGrav\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\bin\Release\ProcessHelper.dll
+C:\Users\zGrav\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\bin\Release\ProcessHelper.pdb
+C:\Users\zGrav\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.ErrorForm.resources
+C:\Users\zGrav\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\obj\x86\Release\LPO.LoadingForm.resources
+C:\Users\zGrav\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\obj\x86\Release\LPO.LoginForm.resources
+C:\Users\zGrav\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\obj\x86\Release\LPO.MainForm.resources
+C:\Users\zGrav\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+C:\Users\zGrav\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+C:\Users\zGrav\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.exe
+C:\Users\zGrav\Downloads\ESA_AC - post version2\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.ErrorForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\bin\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\bin\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\bin\Release\ProcessHelper.dll
+C:\Users\david.silva\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\bin\Release\ProcessHelper.pdb
+C:\Users\david.silva\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.ErrorForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\LPO.LoadingForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\LPO.LoginForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\LPO.MainForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+C:\Users\david.silva\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+C:\Users\david.silva\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA_AC - post version\ESA_AC - post version\LPO\obj\x86\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\bin\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\bin\Release\ESA_AC.pdb
+C:\Users\david.silva\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\bin\Release\ProcessHelper.dll
+C:\Users\david.silva\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\bin\Release\ProcessHelper.pdb
+C:\Users\david.silva\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\obj\x86\Release\ESA_AC.ReportForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\obj\x86\Release\ESA_AC.ErrorForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\obj\x86\Release\LPO.LoadingForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\obj\x86\Release\LPO.LoginForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\obj\x86\Release\LPO.MainForm.resources
+C:\Users\david.silva\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+C:\Users\david.silva\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+C:\Users\david.silva\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\obj\x86\Release\ESA_AC.exe
+C:\Users\david.silva\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\obj\x86\Release\ESA_AC.pdb
+C:\Users\zGrav\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\bin\Release\ESA_AC.exe
+C:\Users\zGrav\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\bin\Release\ESA_AC.pdb
+C:\Users\zGrav\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\bin\Release\ProcessHelper.dll
+C:\Users\zGrav\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\bin\Release\ProcessHelper.pdb
+C:\Users\zGrav\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\obj\x86\Release\ESA_AC.ReportForm.resources
+C:\Users\zGrav\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\obj\x86\Release\ESA_AC.ErrorForm.resources
+C:\Users\zGrav\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\obj\x86\Release\LPO.LoadingForm.resources
+C:\Users\zGrav\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\obj\x86\Release\LPO.LoginForm.resources
+C:\Users\zGrav\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\obj\x86\Release\LPO.MainForm.resources
+C:\Users\zGrav\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+C:\Users\zGrav\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+C:\Users\zGrav\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\obj\x86\Release\ESA_AC.exe
+C:\Users\zGrav\Downloads\ESA_AC - protocol version\ESA_AC - protocol version\LPO\obj\x86\Release\ESA_AC.pdb
